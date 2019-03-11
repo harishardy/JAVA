@@ -29,7 +29,7 @@ public class MaxAndMin
 	
 	public static void main(String[] args) 
 	{
-		long t=0,y=999999999;
+		long t=-999999999,y=999999999;
 		
 		Scanner scan=new Scanner(System.in);
 		
