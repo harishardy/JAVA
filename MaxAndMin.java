@@ -8,13 +8,9 @@ public class MaxAndMin
 		{
 			return a;
 		}
-		else if(b>a)
-		{
-			return b;
-		}
 		else
 		{
-			return a;
+			return b;
 		}
 	}
 	
@@ -25,13 +21,9 @@ public class MaxAndMin
 		{
 			return a;
 		}
-		else if(b<a)
-		{
-			return b;
-		}
 		else
 		{
-			return a;
+			return b;
 		}
 	}
 	
