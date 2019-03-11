@@ -36,6 +36,7 @@ public class StringAddition
 		
 		String n="0";
 		
+		scan.close();
 		
 		if(s1.length()>s2.length()) 
 		{
