@@ -149,6 +149,99 @@ public class StringOperation
 
 
 
+/*
+
+output :
+---------
+
+Enter the first String: 
+
+clark
+
+Enter the Second String: 
+
+malayalam
+
+
+The length of the First String is : 
+
+5
+
+The length of the Second String is : 
+
+9
+
+
+The reverse order of the First String is : 
+
+kralc
+
+The reverse order of the Second String is : 
+
+malayalam
+
+
+The First and Second String : 
+
+Are not COMPARITIVELY EQUAL
+
+
+The First String : 
+
+Is not a PALINDROM
+
+The Second String : 
+
+Is a PALINDROM
+
+
+The First character of the First String is : 
+
+C
+
+The First character of the Second String is : 
+
+M
+
+
+In the First String: 
+
+
+The character c occured 1 times
+ 
+The character l occured 1 times
+ 
+The character a occured 1 times
+ 
+The character r occured 1 times
+ 
+The character k occured 1 times
+ 
+
+
+In the Second String: 
+
+
+The character m occured 2 times
+ 
+The character a occured 4 times
+ 
+The character l occured 2 times
+ 
+The character a occured 4 times
+ 
+The character y occured 1 times
+ 
+The character a occured 4 times
+ 
+The character l occured 2 times
+ 
+The character a occured 4 times
+ 
+The character m occured 2 times
+ 
+*/
+
 
 
 
