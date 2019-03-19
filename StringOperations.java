@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StringOperation
+public class StringOperations
 {
 	
 	
