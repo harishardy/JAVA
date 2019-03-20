@@ -11,14 +11,14 @@ public class ArrayofOperations
 		Scanner scan=new Scanner(System.in);
 		int arr[]=new int[9999];
 		
-		System.out.println("Enter the numbers:\n");
+		System.out.println("Enter the numbers and type 'end':\n");
 		t1= scan.next();
 		
 		
 		mainloop:for(i=0;;)
 		{
 			
-			if(t1.equals("000"))
+			if(t1.equals("end"))
 			{
 				break mainloop;	
 			}
